@@ -1,7 +1,7 @@
 
 function getStatus() {
   return {
-    message: "Backend application is running",
+    message: "Backend application is running successfully",
     status: "success"
   };
 }
