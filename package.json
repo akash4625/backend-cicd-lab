@@ -1,0 +1,11 @@
+
+{
+  "name": "backend-cicd-lab",
+  "version": "1.0.0",
+  "description": "Backend CI/CD lab experiment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
