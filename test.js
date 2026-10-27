@@ -7,9 +7,9 @@ test("Backend returns the correct status", () => {
   const result = getStatus();
 
   assert.equal(
-    result.message,
-    "Backend application is running"
-  );
+  result.message,
+  "Backend application is running successfully"
+);
 
   assert.equal(result.status, "success");
 });
